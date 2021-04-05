@@ -1,0 +1,75 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/Adding values/out/
+/Problems/Adding values/out/production/classes/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Avoid division by zero/out/
+/Problems/Avoid division by zero/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Calculator with four methods/out/
+/Problems/Calculator with four methods/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Check if an array is sorted ascending/out/
+/Problems/Check if an array is sorted ascending/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Create cube/out/
+/Problems/Create cube/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Decompose a math function/out/
+/Problems/Decompose a math function/out/production/classes/
+/Problems/Does an array contain N?/out/
+/Problems/Does an array contain N?/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Fix compile-time errors/out/
+/Problems/Fix compile-time errors/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of integers/out/
+/Problems/Initializing an array of integers/out/production/classes/
+/Problems/Initializing an array of longs/out/
+/Problems/Initializing an array of longs/out/production/classes/
+/Problems/Maximum element in a matrix/out/
+/Problems/Maximum element in a matrix/out/production/classes/
+/Problems/Raise to the power/out/
+/Problems/Raise to the power/out/production/classes/
+/Problems/Return empty string when argument is null/out/
+/Problems/Return empty string when argument is null/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Sum array elements greater than a value/out/
+/Problems/Sum array elements greater than a value/out/production/classes/
+/Problems/The index of the first max in an array/out/
+/Problems/The index of the first max in an array/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The maximum product of adjacent elements/out/
+/Problems/The maximum product of adjacent elements/out/production/classes/
+/Problems/The minimum value of an array/out/
+/Problems/The minimum value of an array/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems/Two numbers never occur next to each other/out/
+/Problems/Two numbers never occur next to each other/out/production/classes/
+/Topics/Array exceptions/Out of bounds_/out/
+/Topics/Array exceptions/Out of bounds_/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
